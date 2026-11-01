@@ -1,5 +1,7 @@
 # 📷 OpenCV Lab: Computer Vision Playground
 
+[`python`](https://github.com/topics/python) • [`opencv`](https://github.com/topics/opencv) • [`computer-vision`](https://github.com/topics/computer-vision) • [`image-processing`](https://github.com/topics/image-processing) • [`jupyter-notebook`](https://github.com/topics/jupyter-notebook) • [`haar-cascade`](https://github.com/topics/haar-cascade) • [`colab`](https://github.com/topics/colab)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>

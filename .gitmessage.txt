@@ -1,0 +1,19 @@
+# <type>(<scope>): <subject in lowercase imperative mood>
+#
+# Multi-line body explaining WHAT changed and WHY:
+# - 
+# - 
+#
+# Co-authored-by: aria sastra <192975116+ariasastra-dev@users.noreply.github.com>
+# ----------------------------------------------------------------------
+# Remember Conventional Commits format:
+#   feat:     New feature for the user
+#   fix:      Bug fix for the user
+#   refactor: Code change that neither fixes a bug nor adds a feature
+#   perf:     Code change that improves performance
+#   test:     Adding missing tests or correcting existing tests
+#   docs:     Documentation only changes
+#   chore:    Changes to the build process, tooling, or dependencies
+#   style:    Formatting, whitespace, semicolons (no code logic change)
+#   ci:       Changes to CI/CD configuration files and scripts
+# ----------------------------------------------------------------------
