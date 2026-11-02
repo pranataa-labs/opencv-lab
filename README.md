@@ -16,6 +16,14 @@ An interactive playground repository for mastering digital image processing and 
 
 ---
 
+## Tangkapan Layar & Pratinjau Interaktif
+
+<p align="center">
+  <img src="screenshots/opencv-lab-preview.png" alt="OpenCV Lab Interactive Computer Vision Notebook Preview" width="920">
+</p>
+
+---
+
 ## 📁 Image & Video Assets
 
 - `pohon.jpg`: Master image for geometric transformations, spatial filtering, and contour extraction.
